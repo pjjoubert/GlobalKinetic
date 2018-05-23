@@ -1,0 +1,7 @@
+F:\Projects\Assessments\GlobalKinetic\Addstring\CoinJar\obj\Debug\CoinJar.csprojAssemblyReference.cache
+F:\Projects\Assessments\GlobalKinetic\Addstring\CoinJar\obj\Debug\CoinJar.csproj.CoreCompileInputs.cache
+F:\Projects\Assessments\GlobalKinetic\Addstring\CoinJar\bin\Debug\CoinJar.exe.config
+F:\Projects\Assessments\GlobalKinetic\Addstring\CoinJar\bin\Debug\CoinJar.exe
+F:\Projects\Assessments\GlobalKinetic\Addstring\CoinJar\bin\Debug\CoinJar.pdb
+F:\Projects\Assessments\GlobalKinetic\Addstring\CoinJar\obj\Debug\CoinJar.exe
+F:\Projects\Assessments\GlobalKinetic\Addstring\CoinJar\obj\Debug\CoinJar.pdb
